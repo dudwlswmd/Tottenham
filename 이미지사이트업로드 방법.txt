@@ -1,0 +1,7 @@
+Cloud Name	ID	                                    Display Name	Product	                Description	    Status	            Actions
+ds5h3tuel	1c921c31096926b27b18b2276d59bb	N/A	             Programmable           Media + DAM	    Enabled	edit
+
+
+
+
+Upload presets : ml_default->설정에서 업로드들어가서 언싸인해서 만든거 가져와야함 

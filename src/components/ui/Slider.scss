@@ -1,0 +1,10 @@
+.slider_wrap{
+     .pc { display: none; }
+
+     .slick-prev{left:20px ;z-index: 1;}
+     .slick-next{right:20px;z-index: 1;}
+          @media (min-width: 768px){
+               .pc { display: block; }
+               .mobile { display: none; }
+          }
+}
